@@ -2,7 +2,7 @@
 
 This is a quick little ask-me-anything type of repository.
 
-I am a instructor at the [Flatiron School](http://flatironschool.com), where I currently lead the [NYC Web Development Fellowshop](http://flatironschool.com/workforce1) that we run out of our Brooklyn Campus in DUMBO.
+I am a instructor at the [Flatiron School](http://flatironschool.com), where I currently lead the [NYC Web Development Fellowship](http://flatironschool.com/workforce1) that we run out of our Brooklyn Campus in DUMBO.
 
 I teach ruby, javascript, the myriad of libraries and frameworks associated with web development work with those languages. I have also given several talks on git, Github, and open source contribution, particulary documentation.
 
